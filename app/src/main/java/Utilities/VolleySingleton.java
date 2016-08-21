@@ -23,7 +23,7 @@ public class VolleySingleton {
 
 
 
-    public static final String API_KEY = "f37c99b928d8d5ed3dba552465c8cb94"; // My personal API Key
+    public static final String API_KEY = ""; // Put your API Key Here
     public static final String API_KEY_GET_REQUEST_NAME = "api_key"; // The name of API Key GET request required from themoviedb
 
     public static final String API_URL = "http://api.themoviedb.org/3/"; // The URL for getting the movies
