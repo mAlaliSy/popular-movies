@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="movie_title_padding">10dp</dimen>
+
+    <dimen name="small_text_padding">3dp</dimen>
+    <dimen name="seperatorMargin">20dp</dimen>
+    <dimen name="paragraphPadding">10dp</dimen>
+    <dimen name="detailsPosterMargin">10dp</dimen>
+
+</resources>

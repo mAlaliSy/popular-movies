@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="errorNoConnection">Connection Erro , Please make sure the device connected to the Internet !</string>
+
+    <string name="outOf10">/10</string>
+
+    <string name="errorNoConnectionButton">OK</string>
+
+</resources>
